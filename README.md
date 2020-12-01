@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pokeguia
 
 ## Project setup
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# pokeGuia
+>>>>>>> ad6a5a24a0ddbcd6d2e44e75cb6a0758026e4026
